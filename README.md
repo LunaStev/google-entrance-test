@@ -4,7 +4,7 @@ A repository started out of curiosity about Google's hiring tests. I began this 
 
 ## Vocabulary of Custom Code Styles
 
-In this repository, files are named using the format:
+When a problem is difficult to understand, files are written using the following format:
 
 **problem_title_codestyle.extension**
 
@@ -32,7 +32,7 @@ These custom style terms are invented to reflect how the code is written — for
 
 ## 사용자 정의 코드 스타일 단어집
 
-이 저장소에서는 파일명을 다음과 같은 형식으로 작성합니다:
+문제를 풀다가 이해가 잘 되지 않을 경우, 다음과 같은 형식으로 파일을 작성합니다:
 
 **problem_title_codestyle.extension**
 
@@ -61,7 +61,7 @@ Lo uso para estudiar conceptos fundamentales y mejorar mis habilidades de progra
 
 ## Vocabulario de estilos personalizados de código
 
-En este repositorio, los archivos están nombrados con el siguiente formato:
+Cuando un problema es difícil de entender, los archivos se escriben con el siguiente formato:
 
 **título_del_problema_estilo_de_código.extensión**
 
