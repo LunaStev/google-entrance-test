@@ -18,10 +18,10 @@ Naming breakdown:
 
 These custom style terms are invented to reflect how the code is written — for visualization, experimentation, simplicity, and more.
 
-| Term | Description |
-|------|-------------|
-| Visualestudiocodealgoritmo | A compound of "Visual" + "Estudio" (Spanish for "study") + "Code" + "Algoritmo" (Spanish for "algorithm"). Refers to code written for visually structured learning and understanding of algorithmic problems. |
-| (More to come) | (New terms will be added here as they are created.) |
+| Term                          | Pronunciation (IPA)                          | Description |
+|------------------------------|----------------------------------------------|-------------|
+| Visualestudiocodealgoritmo   | /ˌvɪʒ.u.əl.ɛˌstu.di.oʊ.koʊd.æl.ɡəˈrɪð.moʊ/   | Visually structured code written for learning and understanding algorithms. |
+| (More to come)               | —                                            | New terms will be added here. |
 
 ---
 
@@ -47,10 +47,10 @@ These custom style terms are invented to reflect how the code is written — for
 이러한 조어들은 시각화, 실험, 단순화 등 다양한 학습 접근 방식을 나타내며,  
 각 문제를 어떤 방식으로 이해하려 했는지를 표현합니다.
 
-| 단어 | 설명 |
-|------|------|
-| Visualestudiocodealgoritmo | "Visual(시각)" + "Estudio(스페인어로 '공부')" + "Code" + "Algoritmo(스페인어로 '알고리즘')"의 합성어. 알고리즘 문제를 시각적으로 구조화하고 학습하기 위한 목적으로 작성된 코드 스타일을 뜻함. |
-| (추가 예정) | (새로운 단어가 생길 때마다 이곳에 추가됩니다.) |
+| 단어                          | 발음 (IPA)                                     | 설명 |
+|-----------------------------|------------------------------------------------|------|
+| Visualestudiocodealgoritmo | /ˌvɪʒ.u.əl.ɛˌstu.di.oʊ.koʊd.æl.ɡəˈrɪð.moʊ/     | 시각적으로 구조화된 알고리즘 학습용 코드 스타일. "Visual(시각)" + "Estudio(공부)" + "Code" + "Algoritmo(알고리즘)"의 합성어. |
+| (추가 예정)                 | —                                              | 새로운 단어가 생길 때마다 이곳에 추가됩니다. |
 
 ---
 
@@ -76,7 +76,7 @@ Estructura del nombre:
 Estos estilos personalizados son palabras inventadas que representan cómo se aborda el problema:  
 ya sea con visualización, experimentación, simplicidad, entre otros métodos.
 
-| Término | Descripción |
-|--------|-------------|
-| Visualestudiocodealgoritmo | Palabra compuesta de “Visual” + “Estudio” + “Code” + “Algoritmo”. Se refiere a un estilo de código estructurado visualmente, escrito con fines educativos y de comprensión conceptual. |
-| (Más próximamente) | Se añadirán más términos a medida que se creen. |
+| Término                     | Pronunciación (IPA)                             | Descripción |
+|----------------------------|--------------------------------------------------|-------------|
+| Visualestudiocodealgoritmo | /ˌvɪʒ.u.əl.ɛˌstu.di.oʊ.koʊd.æl.ɡəˈrɪð.moʊ/       | Estilo de código estructurado visualmente, creado con fines educativos. Palabra compuesta: “Visual” + “Estudio” + “Code” + “Algoritmo”. |
+| (Más próximamente)         | —                                                | Se añadirán más términos a medida que se creen. |
