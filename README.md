@@ -20,7 +20,7 @@ These custom style terms are invented to reflect how the code is written — for
 
 | Term                          | Pronunciation (IPA)                          | Description |
 |------------------------------|----------------------------------------------|-------------|
-| Visualestudiocodealgoritmo   | /ˌvɪʒ.u.əl.ɛˌstu.di.oʊ.koʊd.æl.ɡəˈrɪð.moʊ/   | Visually structured code written for learning and understanding algorithms. |
+| Visualestudiocodealgoritmo   | /ˌvɪʒ.u.əl.ɛˌstu.di.oʊ.koʊd.æl.ɡəˈrɪð.moʊ/   | A compound of "Visual" + "Estudio" (Spanish for "study") + "Code" + "Algoritmo" (Spanish for "algorithm"). Refers to code written for visually structured learning and understanding of algorithmic problems. |
 | (More to come)               | —                                            | New terms will be added here. |
 
 ---
